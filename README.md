@@ -1,5 +1,7 @@
 # imageTovideo_opencv
 ### This is a simple images to video project!
+### Opencv is required to run!
+
 #### usage:
 
 para1 - input image folder  
