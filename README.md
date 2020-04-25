@@ -1,7 +1,7 @@
 # imageTovideo_opencv
 ### This is a simple images to video project!
 ### Opencv is required to run!
-### You may need opencv_ffmpeg310_64.dll
+### You may need opencv_ffmpegXXX_64.dll
 
 #### usage:
 
